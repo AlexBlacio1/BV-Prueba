@@ -6,6 +6,7 @@ import HomeScreen from '../screens/HomeScreen';
 import ProfileScreen from '../screens/ProfileScreen';
 import { createStackNavigator } from '@react-navigation/stack';
 import colors from '../styles/Colors';
+import WelcomeScreen from 'screens/WelcomeScreen';
 
 export type RootStackParamList = {
   Welcome: undefined;

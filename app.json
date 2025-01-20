@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "BV-Prueba",
-    "slug": "BV-Prueba",
+    "slug": "bv-prueba",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "535d276c-9eb8-4894-b311-13e5618a9325"
+      }
+    },
+    "owner": "alexblacio1"
   }
 }
